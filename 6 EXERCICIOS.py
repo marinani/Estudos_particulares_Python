@@ -19,7 +19,7 @@ else:
 
 
 
-Leia um numero real. Se o número for positivo imprima a raiz quadrada. Do contrário, imprima o numero ao quadrado.
+#Leia um numero real. Se o número for positivo imprima a raiz quadrada. Do contrário, imprima o numero ao quadrado.
 
 num1 = input('Digite um numero: ')
 
